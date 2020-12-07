@@ -1,0 +1,6 @@
+[submodule "MPS"]
+	path = MPS
+	url = https://github.com/dotnet/project-system.git
+[submodule "CPS"]
+	path = CPS
+	url = https://devdiv.visualstudio.com/DefaultCollection/DevDiv/_git/CPS
